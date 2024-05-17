@@ -1,3 +1,6 @@
+#### NAME : KANMANI U
+#### REG NO : 212221040070
+
 # EX 05 Soil-moisture-sensor-interfacing-with-IoT-controller-and-uploading-the-data-in-the-cloud.
 
 # AIM:
